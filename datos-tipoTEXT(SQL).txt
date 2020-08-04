@@ -1,0 +1,1 @@
+Los datos de tipo de TEXT en una base de datos realcional se corresponden con el tipo Clob en Java
